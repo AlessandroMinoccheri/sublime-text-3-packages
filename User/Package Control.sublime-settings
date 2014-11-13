@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLAttributes",
+		"JSHint",
+		"JSHint Gutter",
+		"LESS",
+		"Nodejs",
+		"Open URL",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SFTP",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"Tag",
+		"Twig"
+	]
+}
